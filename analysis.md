@@ -19,7 +19,7 @@ The following table summarizes how wallet credit scores are distributed in this 
 - This distribution indicates that, under the current features and scoring logic, most users are seen as neither extremely risky nor extremely reliable.
 
 **Score Distribution Visualization:**  
-(You can include your histogram plot here, e.g. by screenshot or image if required.)
+![alt text](image.png)
 
 ---
 
